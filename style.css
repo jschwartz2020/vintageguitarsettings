@@ -1,0 +1,119 @@
+@charset "UTF-8";
+h3 {
+	color: #9930F1;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	border: medium solid #B160F4;
+	background-color: #F4B5F7;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+}
+body ul li {
+}
+h4 {
+	color: #A04FF2;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	border: medium solid #A04FF2;
+	background-color: #F2B5F7;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	text-align: center;
+	font-weight: bold;
+}
+body ul li {
+	color: #9E4EF2;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	border-width: medium;
+	border-style: none;
+}
+body ul li {
+	color: #A454F2;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body ul li {
+}
+ul {
+	border: medium solid #A04FF2;
+	background-color: #F2B5F7;
+}
+p {
+	color: #B265F3;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	border: medium solid #A04FF2;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	background-color: #F2B5F7;
+}
+#nav ul {
+    color: #FFFFFF;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+#Wrapper {
+}
+#nav ul {
+    color: #FFFFFF;
+}
+#nav ul {
+    list-style-type: none;
+    font-size: large;
+    font-weight: bolder;
+    position: fixed;
+    padding-left: 500px;
+    padding-right: 0px;
+    margin-left: 35px;
+    padding-bottom: 0px;
+    margin-top: -30px;
+    background-color: #F6D8FA;
+}
+#nav ul li {
+    display: inline;
+}
+h1 {
+	color: #B265F3;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-shadow: -2px 0px #C01ED5;
+	letter-spacing: 3px;
+	border: thick solid #A454F2;
+	padding-right: 6px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	background-color: #F2B5F7;
+}
+
+}
+h5 {
+	color: #A04FF2;
+	font-size: large;
+}
+body {
+    background-image: url(fender.png);
+    background-position: 17% 30px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+ul {
+    background-image: url(Jimi.png);
+    background-repeat: no-repeat;
+    background-position: 50% 111%;
+    background-attachment: fixed;
+}
